@@ -220,7 +220,7 @@ nav {
 		font-size: 17px;
 	}
 	.editor-mobile {
-		width: 140%;
+		width: 100%;
 	}
 }
 .services {
@@ -381,7 +381,7 @@ nav {
 		margin-top: 0;
 	}
 	.laptop-mobile {
-		width: 140%;
+		width: 100%;
 	}
 	.features .text h3 {
 		line-height: 1.1;
